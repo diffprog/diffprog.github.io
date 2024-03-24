@@ -1,6 +1,7 @@
 body {
   background-color: #F5F5F5;
   font-family: 'Latin Modern Sans';
+  font-size: 18px;
   margin: 10px;
 }
 
@@ -27,6 +28,7 @@ li {
 
 span {
   font-family: monospace;
+  font-size: 16px;
 }
 
 a:link, a:visited, a:active, a:hover {
