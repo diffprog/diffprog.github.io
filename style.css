@@ -1,0 +1,38 @@
+body {
+  background-color: #F5F5F5;
+  font-family: 'Latin Modern Sans';
+  margin: 10px;
+}
+
+h1 {
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid black;
+}
+
+h2 {
+  border-bottom: 1px solid black;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 3px; 
+}
+
+span {
+  font-family: monospace;
+}
+
+a:link, a:visited, a:active, a:hover {
+  color: navy;
+}
+
+a {
+  font-weight: bold;
+}
